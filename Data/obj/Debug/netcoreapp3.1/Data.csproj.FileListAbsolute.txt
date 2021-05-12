@@ -1,0 +1,9 @@
+C:\Users\Airelys\source\repos\Movie_Plus\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\Airelys\source\repos\Movie_Plus\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Airelys\source\repos\Movie_Plus\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Airelys\source\repos\Movie_Plus\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\Airelys\source\repos\Movie_Plus\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\Airelys\source\repos\Movie_Plus\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\Airelys\source\repos\Movie_Plus\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\Airelys\source\repos\Movie_Plus\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\Airelys\source\repos\Movie_Plus\Data\obj\Debug\netcoreapp3.1\Data.pdb

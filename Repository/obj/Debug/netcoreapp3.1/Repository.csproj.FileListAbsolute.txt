@@ -1,0 +1,12 @@
+C:\Users\Airelys\source\repos\Movie_Plus\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+C:\Users\Airelys\source\repos\Movie_Plus\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\Airelys\source\repos\Movie_Plus\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\Airelys\source\repos\Movie_Plus\Repository\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Airelys\source\repos\Movie_Plus\Repository\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Airelys\source\repos\Movie_Plus\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+C:\Users\Airelys\source\repos\Movie_Plus\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\Users\Airelys\source\repos\Movie_Plus\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\Users\Airelys\source\repos\Movie_Plus\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Airelys\source\repos\Movie_Plus\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+C:\Users\Airelys\source\repos\Movie_Plus\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+C:\Users\Airelys\source\repos\Movie_Plus\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
