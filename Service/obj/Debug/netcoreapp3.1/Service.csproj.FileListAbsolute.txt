@@ -7,3 +7,12 @@ C:\Users\Airelys\source\repos\Movie_Plus\Service\obj\Debug\netcoreapp3.1\Service
 C:\Users\Airelys\source\repos\Movie_Plus\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
 C:\Users\Airelys\source\repos\Movie_Plus\Service\obj\Debug\netcoreapp3.1\Service.dll
 C:\Users\Airelys\source\repos\Movie_Plus\Service\obj\Debug\netcoreapp3.1\Service.pdb
+D:\USERS\JOSE\CLASES.UH\CC\IS.2021-2021.COVID\Ent.Est\Proy src\EQ2\Movie_Plus\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+D:\USERS\JOSE\CLASES.UH\CC\IS.2021-2021.COVID\Ent.Est\Proy src\EQ2\Movie_Plus\Service\bin\Debug\netcoreapp3.1\Service.dll
+D:\USERS\JOSE\CLASES.UH\CC\IS.2021-2021.COVID\Ent.Est\Proy src\EQ2\Movie_Plus\Service\bin\Debug\netcoreapp3.1\Service.pdb
+D:\USERS\JOSE\CLASES.UH\CC\IS.2021-2021.COVID\Ent.Est\Proy src\EQ2\Movie_Plus\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+D:\USERS\JOSE\CLASES.UH\CC\IS.2021-2021.COVID\Ent.Est\Proy src\EQ2\Movie_Plus\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+D:\USERS\JOSE\CLASES.UH\CC\IS.2021-2021.COVID\Ent.Est\Proy src\EQ2\Movie_Plus\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+D:\USERS\JOSE\CLASES.UH\CC\IS.2021-2021.COVID\Ent.Est\Proy src\EQ2\Movie_Plus\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+D:\USERS\JOSE\CLASES.UH\CC\IS.2021-2021.COVID\Ent.Est\Proy src\EQ2\Movie_Plus\Service\obj\Debug\netcoreapp3.1\Service.dll
+D:\USERS\JOSE\CLASES.UH\CC\IS.2021-2021.COVID\Ent.Est\Proy src\EQ2\Movie_Plus\Service\obj\Debug\netcoreapp3.1\Service.pdb

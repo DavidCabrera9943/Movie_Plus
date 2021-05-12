@@ -1187,19 +1187,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Airelys\\.nuget\\packages\\": {}
+    "C:\\Users\\jose\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Airelys\\Desktop\\Movie_Plus\\Repository\\Repository.csproj",
+      "projectUniqueName": "D:\\USERS\\JOSE\\CLASES.UH\\CC\\IS.2021-2021.COVID\\Ent.Est\\Proy src\\EQ2\\Movie_Plus\\Repository\\Repository.csproj",
       "projectName": "Repository",
-      "projectPath": "C:\\Users\\Airelys\\Desktop\\Movie_Plus\\Repository\\Repository.csproj",
-      "packagesPath": "C:\\Users\\Airelys\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Airelys\\Desktop\\Movie_Plus\\Repository\\obj\\",
+      "projectPath": "D:\\USERS\\JOSE\\CLASES.UH\\CC\\IS.2021-2021.COVID\\Ent.Est\\Proy src\\EQ2\\Movie_Plus\\Repository\\Repository.csproj",
+      "packagesPath": "C:\\Users\\jose\\.nuget\\packages\\",
+      "outputPath": "D:\\USERS\\JOSE\\CLASES.UH\\CC\\IS.2021-2021.COVID\\Ent.Est\\Proy src\\EQ2\\Movie_Plus\\Repository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Airelys\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jose\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1207,14 +1207,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\jose\\.nuget\\packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Airelys\\Desktop\\Movie_Plus\\Data\\Data.csproj": {
-              "projectPath": "C:\\Users\\Airelys\\Desktop\\Movie_Plus\\Data\\Data.csproj"
+            "D:\\USERS\\JOSE\\CLASES.UH\\CC\\IS.2021-2021.COVID\\Ent.Est\\Proy src\\EQ2\\Movie_Plus\\Data\\Data.csproj": {
+              "projectPath": "D:\\USERS\\JOSE\\CLASES.UH\\CC\\IS.2021-2021.COVID\\Ent.Est\\Proy src\\EQ2\\Movie_Plus\\Data\\Data.csproj"
             }
           }
         }
@@ -1257,7 +1258,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -28,9 +28,22 @@ namespace Movie_Plus
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            var connection = new SqliteConnection(Configuration.GetConnectionString("DefaultConnection"));
-            connection.Open();
-            services.AddDbContext<ApplicationDbContext>(options => options.UseSqlite(connection));
+            // NOOOOOOO............
+            // var connection = new SqliteConnection(Configuration.GetConnectionString("DefaultConnection"));
+            // connection.Open();
+
+            services.AddDbContext<CinePlusDbContext>(options =>
+            {
+                options.UseSqlite(Configuration.GetConnectionString("CinePlusCstr"));
+            });
+            services.AddIdentity<IdentityUser, IdentityRole>()
+                .AddEntityFrameworkStores<CinePlusDbContext>();
+            services.Configure<IdentityOptions>(opts => 
+            {
+                opts.Password.RequiredLength = 8;
+                opts.User.RequireUniqueEmail = true;
+                opts.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(10);
+            });
 
         }
 
